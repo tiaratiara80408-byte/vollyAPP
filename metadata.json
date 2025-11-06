@@ -1,0 +1,5 @@
+{
+  "name": "Volly App",
+  "description": "A comprehensive volleyball team management application to track statistics, manage rosters, schedule matches, and organize training sessions. Includes an AI-powered drill generator to create custom training programs.",
+  "requestFramePermissions": []
+}
